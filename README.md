@@ -14,9 +14,13 @@ The horizontal bar chart is to be created using JavaScript, Plotly, and D3.js. U
 Bubble charts will be created when the dropdown menue webpage is updated for specific ID's.
 
 *The otu_ids as the x-axis values.
+
 *The sample_values as the y-axis values.
+
 *The sample_values as the marker size.
+
 *The otu_ids as the marker colors.
+
 *The otu_labels as the hover-text values.
 
 ![deliverable_2](https://user-images.githubusercontent.com/104809098/190881664-16d975ca-cfd4-4631-a986-d11909bd325c.png)
@@ -24,6 +28,8 @@ Bubble charts will be created when the dropdown menue webpage is updated for spe
 ## Deliverable 3: Create a Gauge Chart
 
 The gauge chart will be used to display how often the individual ID's washed their belly button in a week. The guage chart will display a measure from 0-10. 
+
+![deliverable_3](https://user-images.githubusercontent.com/104809098/190881801-cf8c8caa-8cae-44b8-8180-c22390ba40b7.png)
 
 ## Final Display:
 
